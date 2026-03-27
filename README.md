@@ -69,3 +69,6 @@ FrameDesk gives users UI control without losing structure, including:
 ## In short
 
 FrameDesk is built for developers and technical users who want a better way to organize, launch, browse, and manage many local projects from one place.
+
+# Take help from the WIZARD to create the fondation and personalize your categories:
+<img width="1377" height="858" alt="WIZARD" src="https://github.com/user-attachments/assets/12015416-dc5a-482e-af33-0b1fe35feb80" />
