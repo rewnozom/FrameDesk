@@ -4,6 +4,9 @@ FrameDesk is a desktop project management and file-explorer workspace for people
 
 It was built to reduce context switching, file hunting, and the daily friction that happens when projects are spread across folders, tools, frameworks, and working contexts.
 
+<img width="1378" height="1389" alt="Interface" src="https://github.com/user-attachments/assets/46f77d81-7dbf-4fbb-b859-50f818438987" />
+
+
 Instead of forcing users into a rigid system, FrameDesk is designed to adapt to real technical work:
 
 - mixed stacks
