@@ -77,3 +77,7 @@ Orginize all tabs into dropdown-like: `FOLDABLE` with color and naming
 
 # Take help from the WIZARD to create the fondation and personalize your categories:
 <img width="1377" height="858" alt="WIZARD" src="https://github.com/user-attachments/assets/12015416-dc5a-482e-af33-0b1fe35feb80" />
+
+## Mark the path and enter (cmd) or (ps1) to open the path in terminal:
+<img width="1105" height="355" alt="image" src="https://github.com/user-attachments/assets/1fd68e6b-2859-49a7-aa3d-c2cee343d3c0" />
+
