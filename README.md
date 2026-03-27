@@ -70,12 +70,15 @@ FrameDesk gives users UI control without losing structure, including:
 
 FrameDesk is built for developers and technical users who want a better way to organize, launch, browse, and manage many local projects from one place.
 
-Orginize all tabs into dropdown-like: `FOLDABLE` with color and naming
+## Use (Scan folder) to automaticly pick up your frameworks/projects
+<img width="1376" height="856" alt="image" src="https://github.com/user-attachments/assets/e5a7c98b-54b7-4b19-add0-aa9f7925599d" />
+
+## Orginize all tabs into dropdown-like: `FOLDABLE` with color and naming
 <img width="884" height="223" alt="GroupTabs" src="https://github.com/user-attachments/assets/4e74115c-ddfc-484b-a459-a220f06b1968" />
 <img width="360" height="193" alt="grouptags_color" src="https://github.com/user-attachments/assets/2a579217-d847-49ea-9102-80177ed8999c" />
 
 
-# Take help from the WIZARD to create the fondation and personalize your categories:
+## Take help from the WIZARD to create the fondation and personalize your categories:
 <img width="1377" height="858" alt="WIZARD" src="https://github.com/user-attachments/assets/12015416-dc5a-482e-af33-0b1fe35feb80" />
 
 ## Mark the path and enter (cmd) or (ps1) to open the path in terminal:
