@@ -24,24 +24,10 @@ It was built to reduce context switching, file hunting, and the daily friction t
 
 ---
 
-Instead of forcing users into a rigid system, FrameDesk is designed to adapt to real technical work:
-
-- mixed stacks
-- local folders
-- quick launches
-- custom organization
-- highly personal setups
-
 ## Why FrameDesk exists
-
+Instead of forcing users into a rigid system, FrameDesk is designed to adapt.
 Day-to-day work usually needs more than one tool at the same time.
-FrameDesk was built to bring those needs together in one desktop workspace:
-
-- file browsing
-- launchers
-- bookmarks
-- workspace organization
-- framework/project grouping
+FrameDesk was built to bring those needs together in one workspace.
 
 When projects live across many folders and naming styles, they become harder to navigate, harder to maintain, and easier to forget.
 FrameDesk helps turn that into a structure people actually can work with.
