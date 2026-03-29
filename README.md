@@ -1,7 +1,6 @@
 # FrameDesk
-
-FrameDesk is a `Electron-desktop` project management and file-explorer application for people who handle many local projects at once.
-It was built to reduce context switching, file hunting, and the daily friction that happens when projects are spread across folders, tools, frameworks, and working contexts.
+FrameDesk is an Electron desktop (File-Explorer) for project management, designed for users who work across many local projects simultaneously. 
+It uses a JavaScript-based Electron architecture with IPC between the renderer and main process, and includes a Rust-based Scanning_Engine for framework detection.
 
 <img width="1378" height="1389" alt="Interface" src="https://github.com/user-attachments/assets/46f77d81-7dbf-4fbb-b859-50f818438987" />
 
