@@ -4,6 +4,10 @@ It uses a JavaScript-based Electron architecture with IPC between the renderer a
 
 <img width="1378" height="1389" alt="Interface" src="https://github.com/user-attachments/assets/46f77d81-7dbf-4fbb-b859-50f818438987" />
 
+## High performence (Properties with data sections)
+<img width="832" height="694" alt="image" src="https://github.com/user-attachments/assets/60bff79a-81a2-4872-9e74-e35ab8eeabbe" />
+
+
 ### Press F1 for ``(Settings menu)``
 <img width="1377" height="859" alt="settings_menu" src="https://github.com/user-attachments/assets/e596fed5-6db4-41b0-802e-929abd79fcb4" />
 
