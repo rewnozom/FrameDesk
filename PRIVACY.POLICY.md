@@ -15,7 +15,7 @@ Network Usage
 FrameDesk does not require an online account and does not transmit user content to external servers as part of its normal operation.
 
 Third-Party Services
-FrameDesk does not use analytics, advertising, tracking technologies, or remote telemetry unless explicitly stated in a future version.
+FrameDesk does not use analytics, advertising, tracking technologies, or remote telemetry unless explicitly stated in a future version. Any such functionality would always be optional and under the user’s control.
 
 User Control
 Users remain fully in control of their local data and may edit, move, back up, or delete app-generated files at any time from their own system.
