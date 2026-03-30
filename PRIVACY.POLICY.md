@@ -23,7 +23,7 @@ Users remain fully in control of their local data and may edit, move, back up, o
 Contact
 If you have questions regarding privacy, contact me:
 [Rewnozom]
-[Rewnozom@outlook.com]
+[Rewnozom@outlook.com] #Please note that this email is not monitored frequently, so response times may be delayed.
 
 Policy Updates
 This privacy policy may be updated if the app’s functionality changes. Any future changes to data handling will be reflected in an updated policy.
