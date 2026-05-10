@@ -4,6 +4,14 @@ It uses a JavaScript-based Electron architecture with IPC between the renderer a
 
 <img width="1378" height="1389" alt="Interface" src="https://github.com/user-attachments/assets/46f77d81-7dbf-4fbb-b859-50f818438987" />
 
+---
+
+
+https://github.com/user-attachments/assets/8cce6297-8bc0-4dff-ae14-56ce646ecb2a
+
+
+---
+
 ## High performence (Properties with data sections)
 <img width="832" height="694" alt="image" src="https://github.com/user-attachments/assets/60bff79a-81a2-4872-9e74-e35ab8eeabbe" />
 
