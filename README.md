@@ -6,9 +6,7 @@ It uses a JavaScript-based Electron architecture with IPC between the renderer a
 
 ---
 
-
-https://github.com/user-attachments/assets/8cce6297-8bc0-4dff-ae14-56ce646ecb2a
-
+https://github.com/user-attachments/assets/53aea527-923b-4a49-b96e-06631f9c46bc
 
 ---
 
