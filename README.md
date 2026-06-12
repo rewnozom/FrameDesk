@@ -46,11 +46,11 @@ If you want to index all drives run = (Upt Indx All SSD) instead.
 ---
 # Full View:
 
-<img width="1917" height="1031" alt="FullView2" src="https://github.com/user-attachments/assets/286bf517-a2da-47c3-b82e-0783849fbe51" />
+<img width="1918" height="1031" alt="_FullView4" src="https://github.com/user-attachments/assets/6089d5f9-d35c-497e-9136-d0691e621ffb" />
 
-<img width="1918" height="1029" alt="FullView3" src="https://github.com/user-attachments/assets/e23927c1-e619-4315-9356-c6b9d61e8b49" />
+<img width="2557" height="1387" alt="_FullView2" src="https://github.com/user-attachments/assets/e3953a04-798b-463c-87db-877decdee909" />
 
-<img width="1918" height="1032" alt="FullView" src="https://github.com/user-attachments/assets/667bd719-f9b7-4d0e-82cf-400dba8ebe66" />
+<img width="2555" height="1394" alt="_FullView" src="https://github.com/user-attachments/assets/22a5d071-be2f-4ee4-b3a8-045f057ec580" />
 
 ---
 
@@ -101,15 +101,18 @@ After level 3, you can organize the project however you want. WorkspaceOS treats
 ## Layouts
 
 `Content List` is best when you want a compact overview.
-<img width="578" height="994" alt="ContentList_Roots_Project_on" src="https://github.com/user-attachments/assets/2a46e275-e6fc-4523-b50e-29b51d160dc5" />
+<img width="713" height="983" alt="contentlist" src="https://github.com/user-attachments/assets/d3b10137-500a-43b2-ae9c-da355b08e346" />
+
 ----
 
 `Grid` is best when you want visual scanning.
-<img width="577" height="399" alt="Grid_all_Project_off" src="https://github.com/user-attachments/assets/ee121b29-8d29-46c2-9051-dc32951181ce" />
+<img width="722" height="994" alt="grid" src="https://github.com/user-attachments/assets/3653b1ab-61d0-4e58-874b-b1a9a4367266" />
+
 ---
 
 `List` is best when you want clear rows and paths.
-<img width="577" height="429" alt="List_Roots_Project_off" src="https://github.com/user-attachments/assets/803551cc-c460-48a7-a638-321abfa60731" />
+<img width="717" height="995" alt="list" src="https://github.com/user-attachments/assets/23ae386d-fe4a-481e-91f3-e443c33ba7ff" />
+
 
 ---
 
