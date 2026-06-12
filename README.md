@@ -100,17 +100,17 @@ After level 3, you can organize the project however you want. WorkspaceOS treats
 
 ## Layouts
 
-## Layout: `Content List`
+#### `Content List`
 <img width="713" height="983" alt="contentlist" src="https://github.com/user-attachments/assets/d3b10137-500a-43b2-ae9c-da355b08e346" />
 
 ----
 
-## Layout: `Grid`
+#### `Grid`
 <img width="722" height="994" alt="grid" src="https://github.com/user-attachments/assets/3653b1ab-61d0-4e58-874b-b1a9a4367266" />
 
 ---
 
-## Layout: `List`
+#### `List`
 <img width="717" height="995" alt="list" src="https://github.com/user-attachments/assets/23ae386d-fe4a-481e-91f3-e443c33ba7ff" />
 
 
