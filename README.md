@@ -32,6 +32,120 @@ https://github.com/user-attachments/assets/53aea527-923b-4a49-b96e-06631f9c46bc
 <img width="1105" height="355" alt="image" src="https://github.com/user-attachments/assets/1fd68e6b-2859-49a7-aa3d-c2cee343d3c0" />
 
 ---
+# NEW FETURE WorkspaceOS panel. **WorkspaceOS panel is currently: (beta)**
+> FrameDesk Setup v1.1.4
+# What Is WorkspaceOS?
+
+WorkspaceOS is a fast navigation panel for your SSD workspace structure.
+It gives you one place to browse root folders, child folders, projects, favorites, and per-drive indexes.
+ 
+to index your (SSD/Drive) run = (Update Index).
+If you want to index all drives run = (Upt Indx All SSD) instead.
+
+
+---
+# Full View:
+
+<img width="1917" height="1031" alt="FullView2" src="https://github.com/user-attachments/assets/286bf517-a2da-47c3-b82e-0783849fbe51" />
+
+<img width="1918" height="1029" alt="FullView3" src="https://github.com/user-attachments/assets/e23927c1-e619-4315-9356-c6b9d61e8b49" />
+
+<img width="1918" height="1032" alt="FullView" src="https://github.com/user-attachments/assets/667bd719-f9b7-4d0e-82cf-400dba8ebe66" />
+
+---
+
+## Why It Helps
+
+- Jump around large SSD workspaces without digging through folders manually.
+- Easier visualize all project and can navigate throughout very easy
+- Toggle `Project View` when you want to view all (depth-3 project) folders can be mixed with diffrent layout (grid/list/content list)
+- WorkspaceOS has its own separate favorites list from normal FrameDesk favorites, so you can personalize it for a project and keep your main favorites for personal directories.
+
+## Expected Structure
+WorkspaceOS expects a simple 3-level organization:
+
+```
+Level 1: Root directories
+Level 2: Children directories
+Level 3: Projects
+```
+
+Example:
+
+```markdown
+01_Development/
+└── 00_Active_Projects/
+    └── _FrameDesk_Family/
+```
+
+However, 
+After level 3, you can organize the project however you want. WorkspaceOS treats level 3 as the project entry point, not the end of your structure.
+
+```markdown
+.
+└── 01_Development/
+    └── 00_Active_Projects/
+        └── _FrameDesk_Family/
+            ├── .Framework-Principle.md
+            ├── FrameDesk/
+            │   ├── FrameDesk_V0a_001
+            │   ├── FrameDesk_V0a_002
+            │   ├── ....+n
+            │   ├── FrameDesk_V0a_339
+            │   └── FrameDesk_V0a_340
+            ├── script
+            ├── ScrollMenu
+            └── sibbling_apps
+```
+
+## Layouts
+
+`Content List` is best when you want a compact overview.
+<img width="578" height="994" alt="ContentList_Roots_Project_on" src="https://github.com/user-attachments/assets/2a46e275-e6fc-4523-b50e-29b51d160dc5" />
+----
+
+`Grid` is best when you want visual scanning.
+<img width="577" height="399" alt="Grid_all_Project_off" src="https://github.com/user-attachments/assets/ee121b29-8d29-46c2-9051-dc32951181ce" />
+---
+
+`List` is best when you want clear rows and paths.
+<img width="577" height="429" alt="List_Roots_Project_off" src="https://github.com/user-attachments/assets/803551cc-c460-48a7-a638-321abfa60731" />
+
+---
+
+## Where Data Is Saved
+WorkspaceOS saves its own data in FrameDesk appdata:
+
+```
+C:\Users\{username}\AppData\Roaming\framedesk\data\WorkspaceOS>
+favorites.json
+.gitignore
+A_Drive_.gitignore
+A_Drive_Workspace_Structure_Index.jsonl
+A_Drive_Workspace_Structure_Projects_Index.jsonl
+B_Drive_.gitignore
+B_Drive_Workspace_Structure_Index.jsonl
+B_Drive_Workspace_Structure_Projects_Index.jsonl
+config.json
+C_Drive_.gitignore
+C_Drive_Workspace_Structure_Index.jsonl
+C_Drive_Workspace_Structure_Projects_Index.jsonl
+D_Drive_.gitignore
+D_Drive_Workspace_Structure_Index.jsonl
+D_Drive_Workspace_Structure_Projects_Index.jsonl
+E_Drive_.gitignore
+E_Drive_Workspace_Structure_Index.jsonl
+E_Drive_Workspace_Structure_Projects_Index.jsonl
+F_Drive_.gitignore
+F_Drive_Workspace_Structure_Index.jsonl
+F_Drive_Workspace_Structure_Projects_Index.jsonl
+G_Drive_.gitignore
+G_Drive_Workspace_Structure_Index.jsonl
+G_Drive_Workspace_Structure_Projects_Index.jsonl
+```
+
+------
+---
 
 ## Why FrameDesk exists
 Instead of forcing users into a rigid system, FrameDesk is designed to adapt.
