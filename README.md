@@ -31,6 +31,10 @@ https://github.com/user-attachments/assets/53aea527-923b-4a49-b96e-06631f9c46bc
 ### Mark the path and enter (cmd) or (ps1) to open the path in terminal:
 <img width="1105" height="355" alt="image" src="https://github.com/user-attachments/assets/1fd68e6b-2859-49a7-aa3d-c2cee343d3c0" />
 
+### View inside (Zip/Tar or other archive) with markdown-tree view with (Preview):
+<img width="928" height="825" alt="image" src="https://github.com/user-attachments/assets/995315a1-c59e-4678-9dbb-5da1a9b0a8b7" />
+
+
 ---
 # NEW FETURE WorkspaceOS panel. **WorkspaceOS panel is currently: (beta)**
 > FrameDesk Setup v1.1.4
